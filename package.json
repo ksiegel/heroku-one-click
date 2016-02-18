@@ -1,0 +1,19 @@
+{
+  "name": "heroku-one-click",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksiegel/heroku-one-click.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksiegel/heroku-one-click/issues"
+  },
+  "homepage": "https://github.com/ksiegel/heroku-one-click#readme"
+}

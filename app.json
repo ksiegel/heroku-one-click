@@ -1,0 +1,19 @@
+{
+  "name": "One click test",
+  "description": "Testing",
+  "website": "http://heroku.com",
+  "repository": "https://github.com/ksiegel/heroku-one-click",
+  "keywords": [
+    "MQTT",
+    "Messaging",
+    "Xively"
+  ],
+  "scripts": {
+    "postdeploy": "node postdeploy"
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  ],
+}
