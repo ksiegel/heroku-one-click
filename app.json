@@ -15,5 +15,11 @@
     {
       "url": "https://github.com/heroku/heroku-buildpack-nodejs"
     }
-  ]
+  ],
+  "env": {
+    "TEST_TEST": {
+      "description": "Bug sample",
+      "required": false
+    }
+  }
 }
